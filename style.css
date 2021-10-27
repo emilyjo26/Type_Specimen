@@ -1,5 +1,28 @@
 * {
   box-sizing: border-box;
 }
+body{
+  margin:25pt;
+}
+h1 {
+  font-family: "roboto";
+  font-size: 18pt;
+  color: dodgerblue;
+}
+p1 {
+  font-family: "roboto";
+    font-weight: regular;
+  line-height: 1.5;
+}
+h2 {
+  font-family: roboto;
+  font-size: 18pt;
+  color: dodgerblue;  
+}
+p2 {
+  font-family: roboto;
+  font-weight: bold;
+  line-height: 1.5;
+}
 
 /* Add CSS Styles Below */
