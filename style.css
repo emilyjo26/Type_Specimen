@@ -1,28 +1,133 @@
-* {
-  box-sizing: border-box;
-}
-body{
-  margin:25pt;
-}
 h1 {
-  font-family: "roboto";
-  font-size: 18pt;
-  color: dodgerblue;
+  font-family: Roboto;
+  font-size: 30pt;
+  color: #434343;
 }
-p1 {
-  font-family: "roboto";
-    font-weight: regular;
-  line-height: 1.5;
-}
-h2 {
-  font-family: roboto;
-  font-size: 18pt;
-  color: dodgerblue;  
-}
-p2 {
-  font-family: roboto;
-  font-weight: bold;
-  line-height: 1.5;
+h2{
+  font-family: Roboto;
+  color: #434343; 
+  font-size: 20pt;
+  margin-bottom: 5pt;
+  margin-top: 15pt;
 }
 
-/* Add CSS Styles Below */
+.squareprimary {
+  height: 80px;
+  width: 80px;
+  background-color: #1B8CED;
+}
+.squareS1 {
+  height: 80px;
+  width: 80px;
+  background-color: #F9D71D;
+  display:inline-block;
+}
+.squareS2 {
+  height: 80px;
+  width: 80px;
+  background-color: #EF6C00;
+  display:inline-block;
+}
+.squareB1 {
+  height: 80px;
+  width: 80px;
+  background-color: #EEEDED;
+  display:inline-block;
+}
+.squareB2 {
+  height: 80px;
+  width: 80px;
+  background-color: #F9F9F9;
+  display:inline-block;
+}
+.squareL1 {
+  height: 80px;
+  width: 80px;
+  background-color: #2C80C5;
+  display:inline-block;
+}
+.squareL2 {
+ height: 80px;
+  width: 80px;
+  background-color: #D0021C;
+  display:inline-block;
+}
+.squareL3 {
+height: 80px;
+  width: 80px;
+  background-color: #434343;
+  display:inline-block;
+}
+.squareD1 {
+  height: 80px;
+  width: 80px;
+  background-color: #327534;
+  display:inline-block;
+}
+.squareD2 {
+  height: 80px;
+  width: 80px;
+  background-color: #074221;
+  display:inline-block;
+}
+.squareD3 {
+  height: 80px;
+  width: 80px;
+  background-color: #BC2828;
+  display:inline-block;
+}
+.squareA1 {
+  height: 80px;
+  width: 80px;
+  background-color: #1F4CA6;
+  display:inline-block;
+}
+.squareA2 {
+  height: 80px;
+  width: 80px;
+  background-color: #092949;
+  display:inline-block;
+}
+.squareA3 {
+  height: 80px;
+  width: 80px;
+  background-color: #9F9F9F;
+  display:inline-block;
+}
+.squareA4 {
+  height: 80px;
+  width: 80px;
+  background-color: #F5C0AD;
+  display:inline-block;
+}
+.squareA5 {
+  height: 80px;
+  width: 80px;
+  background-color: #DCEAF9;
+  display:inline-block;
+}
+.squareA6 {
+  height: 80px;
+  width: 80px;
+  background-color: #9CD4BF;
+  display:inline-block;
+}
+.squareA7 {
+  height: 80px;
+  width: 80px;
+  background-color: #DDF1EC;
+  display:inline-block;
+}
+.squareA8 {
+  height: 80px;
+  width: 80px;
+  background-color: #FDA9C1;
+  display:inline-block;
+}
+.squareA9 {
+  height: 80px;
+  width: 80px;
+  background-color: #F1ECDB;
+  display:inline-block;
+}
+
